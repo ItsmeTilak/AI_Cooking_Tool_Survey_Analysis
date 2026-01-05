@@ -60,8 +60,7 @@ The objective of this project is to analyze **consumer cooking habits, food orde
 - Indian cuisine dominates preferences  
 - Time, recipe discovery, and ingredient availability are top challenges  
 
-📷 *Dashboard Preview:*  
-`/images/Cooking_Interest_Food_Ordering.png`
+![Dashboard Preview](images/Cooking_Interest_Food_Ordering.png)
 
 ---
 
@@ -80,8 +79,7 @@ The objective of this project is to analyze **consumer cooking habits, food orde
 - Strong preference for **freemium pricing**  
 - Users prefer **all-in-one feature bundles**
 
-📷 *Dashboard Preview:*  
-`/images/AI_Tool_Interest_Features.png`
+![Dashboard Preview](/images/AI_Tool_Interest_Features.png)
 
 ---
 
@@ -89,7 +87,7 @@ The objective of this project is to analyze **consumer cooking habits, food orde
 
 **Focus Areas:**
 - Adoption forecasts (Conservative, Moderate, Optimistic)
-- Grocery sourcing behavior
+- Grocery sourcing behaviour
 - Delivery integration demand
 - Referral funnel analysis
 - Revenue by pricing model
@@ -98,10 +96,9 @@ The objective of this project is to analyze **consumer cooking habits, food orde
 **Key Insights:**
 - High potential for organic growth via referrals  
 - Strong acceptance of grocery delivery integration  
-- Subscription model shows highest revenue potential  
+- Subscription model shows the highest revenue potential  
 
-📷 *Dashboard Preview:*  
-`/images/Future_Scope_Revenue_Projections.png`
+![Dashboard Preview](/images/Future_Scope_Revenue_Projections.png)
 
 ---
 
@@ -111,7 +108,7 @@ The survey captured insights across:
 
 - Age, gender, occupation, income & location
 - Cooking frequency & cuisine preferences
-- Online food ordering behavior
+- Online food ordering behaviour
 - Cooking challenges
 - Interest in AI-powered cooking tools
 - Feature expectations
@@ -120,6 +117,21 @@ The survey captured insights across:
 - AI comfort level
 - Referral likelihood
 
+---
+
+## 📁 Project Structure
+
+```
+RecipAI-PowerBI-Analysis/
+│
+├── Data Analysis - AI Cooking Tool survey.pbix
+├── README.md
+├── PCL Report - RecipAI.pdf
+└── images/
+    ├── Cooking_Interest_Food_Ordering.png
+    ├── AI_Tool_Interest_Features.png
+    └── Future_Scope_Revenue_Projections.png
+```
 ---
 
 ## 🚀 How to Use This Project
@@ -170,17 +182,7 @@ The survey captured insights across:
 
 This project demonstrates how **data analytics and business strategy** can be combined to design **market-ready, insight-driven digital products**.
 
-## 📂 Repository Structure
 
-```text
-RecipAI-PowerBI-Analysis/
-│
-├── Data Analysis - AI Cooking Tool survey.pbix
-├── README.md
-├── PCL Report - RecipAI.pdf
-└── images/
-    ├── Cooking_Interest_Food_Ordering.png
-    ├── AI_Tool_Interest_Features.png
-    └── Future_Scope_Revenue_Projections.png
+
 
 
